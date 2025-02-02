@@ -1,3 +1,50 @@
+/* 
+------------------TYPOGRAPHY------------------
+   Font size 
+   12px / 16px / 20px / 24px / 32px / 40px / 48px / 64px
+
+   Font weight
+   400/700
+
+   line heighs
+   1.2/1.5
+
+   letter spacing
+   0/-2px
+
+   font family
+   poppins/ sans-serif
+
+   ------------------COLOR------------------
+ PRIMARY
+
+Base: #339afe (Sky Blue)
+Tint: #d0ebff (Arctic)
+Shade: #1c7ed6 (Deep Sea)
+
+SECONDARY
+
+Base: #9775fa (Lavendar)
+Tint: #e5dbff (Moonligh Iris)
+Shade: #7048e8 (Velvet Night)
+
+
+TERTIARY
+
+Base: #ff922b (Pumpkin)
+Tint: #ffe8cc (Dawn)
+Shade: #176707 (Lava)
+
+GREY
+
+Base: #495857 (Slate>
+Tint: #f1f3f5 (Pebble)
+Shade: #212259
+
+*/
+
+
+
 h1{
     font-weight: 700;
     text-align: center;
